@@ -1,2 +1,2 @@
-const config = { output: 'export', devIndicators: false };
+const config = { devIndicators: false };
 export default config;
